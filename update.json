@@ -1,0 +1,9 @@
+{
+"appName": "MBox TV",
+"versionName": "1.0.0",
+"versionCode": 1,
+"mandatory": false,
+"apkUrl": "https://github.com/Maurobrito21/mbox-tv-downloads/releases/latest/download/MBoxTV.apk",
+"releaseNotes": "Primera versión oficial de MBox TV.",
+"publishedAt": "2026-06-26T00:00:00Z"
+}
